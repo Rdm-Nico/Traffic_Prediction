@@ -1,0 +1,39 @@
+------------ Options -------------
+config: config/Modena.conf
+cuda: 2
+seed: 1
+batch_size: 64
+max_epoch: 200
+learning_rate: 0.001
+m_p_hour: 4
+input_len: 4
+output_len: 4
+train_ratio: 0.6
+val_ratio: 0.2
+test_ratio: 0.2
+dims: 16
+heads: 8
+layers: 2
+wave: sym2
+level: 1
+samples: 1.0
+traffic_file: ./data/MO_D/data.npz
+adj_file: ./data/MO_D/adj.npy
+tem_adj_file: ./data/MO_D/temadj.npy
+model_file: ./cpt/MO_D/saved_model
+log_file: ./log/MO_D/log_2
+-------------- End ----------------
+
+------------ Loading Data -------------
+Shape of data: (2976, 260, 1)
+Shape of Train Data: (1779, 4, 260, 1)
+Shape of Validation Data: (588, 4, 260, 1)
+Shape of Test Data: (588, 4, 260, 1)
+Mean: 36.134038137242186 & Std: 89.82759454474397
+Shape of graphwave eigenvalue and eigenvector: (128,), (260, 128)
+Shape of localadj: (260, 8)
+------------ End -------------
+
+Using mps:2
+======================TEST MODE======================
+average, mae: 7.7856, rmse: 23.0283, mape: 0.3532

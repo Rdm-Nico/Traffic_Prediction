@@ -1,0 +1,645 @@
+2024-11-06 10:00: Experiment log path in: /Users/rdm-nico/VSCode_Projects/GA/Traffic_Prediction_Project/DDGCRN/experiments/MO_D/20241106100057
+2024-11-06 10:00: 第一层训练
+2024-11-06 10:00: 两层训练
+2024-11-06 10:01: ********Train Epoch 1: averaged Loss: 63.146818, train time: 11.46 s
+2024-11-06 10:01: ***********Val Epoch 1: average Loss: 25.159609, train time: 1.15 s
+2024-11-06 10:01: **********test Epoch 1: average Loss: 23.423411, train time: 1.70 s
+2024-11-06 10:01: *********************************Current best model saved!
+2024-11-06 10:01: ********Train Epoch 2: averaged Loss: 15.323391, train time: 9.93 s
+2024-11-06 10:01: ***********Val Epoch 2: average Loss: 11.357219, train time: 1.15 s
+2024-11-06 10:01: **********test Epoch 2: average Loss: 10.519180, train time: 1.22 s
+2024-11-06 10:01: *********************************Current best model saved!
+2024-11-06 10:01: ********Train Epoch 3: averaged Loss: 9.808520, train time: 9.91 s
+2024-11-06 10:01: ***********Val Epoch 3: average Loss: 8.816337, train time: 1.13 s
+2024-11-06 10:01: **********test Epoch 3: average Loss: 8.239128, train time: 1.24 s
+2024-11-06 10:01: *********************************Current best model saved!
+2024-11-06 10:01: ********Train Epoch 4: averaged Loss: 8.666478, train time: 9.95 s
+2024-11-06 10:01: ***********Val Epoch 4: average Loss: 8.258868, train time: 1.18 s
+2024-11-06 10:01: **********test Epoch 4: average Loss: 7.754665, train time: 1.20 s
+2024-11-06 10:01: *********************************Current best model saved!
+2024-11-06 10:01: ********Train Epoch 5: averaged Loss: 8.298479, train time: 9.93 s
+2024-11-06 10:01: ***********Val Epoch 5: average Loss: 8.001342, train time: 1.16 s
+2024-11-06 10:02: **********test Epoch 5: average Loss: 7.522817, train time: 1.23 s
+2024-11-06 10:02: *********************************Current best model saved!
+2024-11-06 10:02: ********Train Epoch 6: averaged Loss: 8.071091, train time: 9.88 s
+2024-11-06 10:02: ***********Val Epoch 6: average Loss: 7.865847, train time: 1.14 s
+2024-11-06 10:02: **********test Epoch 6: average Loss: 7.392134, train time: 1.23 s
+2024-11-06 10:02: *********************************Current best model saved!
+2024-11-06 10:02: ********Train Epoch 7: averaged Loss: 7.790589, train time: 9.84 s
+2024-11-06 10:02: ***********Val Epoch 7: average Loss: 7.676084, train time: 1.16 s
+2024-11-06 10:02: **********test Epoch 7: average Loss: 7.234944, train time: 1.24 s
+2024-11-06 10:02: *********************************Current best model saved!
+2024-11-06 10:02: ********Train Epoch 8: averaged Loss: 7.604814, train time: 9.90 s
+2024-11-06 10:02: ***********Val Epoch 8: average Loss: 7.590191, train time: 1.16 s
+2024-11-06 10:02: **********test Epoch 8: average Loss: 7.148846, train time: 1.23 s
+2024-11-06 10:02: *********************************Current best model saved!
+2024-11-06 10:02: ********Train Epoch 9: averaged Loss: 7.468150, train time: 9.90 s
+2024-11-06 10:02: ***********Val Epoch 9: average Loss: 7.286079, train time: 1.15 s
+2024-11-06 10:02: **********test Epoch 9: average Loss: 6.898369, train time: 1.22 s
+2024-11-06 10:02: *********************************Current best model saved!
+2024-11-06 10:02: ********Train Epoch 10: averaged Loss: 7.371343, train time: 9.89 s
+2024-11-06 10:03: ***********Val Epoch 10: average Loss: 7.540694, train time: 1.17 s
+2024-11-06 10:03: **********test Epoch 10: average Loss: 7.165809, train time: 1.23 s
+2024-11-06 10:03: ********Train Epoch 11: averaged Loss: 7.198749, train time: 9.87 s
+2024-11-06 10:03: ***********Val Epoch 11: average Loss: 7.081655, train time: 1.16 s
+2024-11-06 10:03: **********test Epoch 11: average Loss: 6.739270, train time: 1.23 s
+2024-11-06 10:03: *********************************Current best model saved!
+2024-11-06 10:03: ********Train Epoch 12: averaged Loss: 7.028033, train time: 9.90 s
+2024-11-06 10:03: ***********Val Epoch 12: average Loss: 7.108688, train time: 1.16 s
+2024-11-06 10:03: **********test Epoch 12: average Loss: 6.775320, train time: 1.22 s
+2024-11-06 10:03: ********Train Epoch 13: averaged Loss: 6.888170, train time: 9.89 s
+2024-11-06 10:03: ***********Val Epoch 13: average Loss: 7.093864, train time: 1.16 s
+2024-11-06 10:03: **********test Epoch 13: average Loss: 6.791151, train time: 1.23 s
+2024-11-06 10:03: ********Train Epoch 14: averaged Loss: 6.821852, train time: 9.83 s
+2024-11-06 10:03: ***********Val Epoch 14: average Loss: 7.116759, train time: 1.13 s
+2024-11-06 10:03: **********test Epoch 14: average Loss: 6.813885, train time: 1.19 s
+2024-11-06 10:04: ********Train Epoch 15: averaged Loss: 6.639123, train time: 10.11 s
+2024-11-06 10:04: ***********Val Epoch 15: average Loss: 6.946694, train time: 1.17 s
+2024-11-06 10:04: **********test Epoch 15: average Loss: 6.655734, train time: 1.23 s
+2024-11-06 10:04: *********************************Current best model saved!
+2024-11-06 10:04: ********Train Epoch 16: averaged Loss: 6.534790, train time: 9.87 s
+2024-11-06 10:04: ***********Val Epoch 16: average Loss: 6.875559, train time: 1.16 s
+2024-11-06 10:04: **********test Epoch 16: average Loss: 6.625287, train time: 1.23 s
+2024-11-06 10:04: *********************************Current best model saved!
+2024-11-06 10:04: ********Train Epoch 17: averaged Loss: 6.593710, train time: 9.84 s
+2024-11-06 10:04: ***********Val Epoch 17: average Loss: 6.767370, train time: 1.17 s
+2024-11-06 10:04: **********test Epoch 17: average Loss: 6.513264, train time: 1.23 s
+2024-11-06 10:04: *********************************Current best model saved!
+2024-11-06 10:04: ********Train Epoch 18: averaged Loss: 6.433570, train time: 9.81 s
+2024-11-06 10:04: ***********Val Epoch 18: average Loss: 6.702215, train time: 1.15 s
+2024-11-06 10:04: **********test Epoch 18: average Loss: 6.484066, train time: 1.24 s
+2024-11-06 10:04: *********************************Current best model saved!
+2024-11-06 10:04: ********Train Epoch 19: averaged Loss: 6.231614, train time: 9.86 s
+2024-11-06 10:04: ***********Val Epoch 19: average Loss: 6.588278, train time: 1.15 s
+2024-11-06 10:04: **********test Epoch 19: average Loss: 6.365477, train time: 1.23 s
+2024-11-06 10:04: *********************************Current best model saved!
+2024-11-06 10:05: ********Train Epoch 20: averaged Loss: 6.216014, train time: 9.88 s
+2024-11-06 10:05: ***********Val Epoch 20: average Loss: 6.627887, train time: 1.17 s
+2024-11-06 10:05: **********test Epoch 20: average Loss: 6.433187, train time: 1.23 s
+2024-11-06 10:05: ********Train Epoch 21: averaged Loss: 6.114605, train time: 9.85 s
+2024-11-06 10:05: ***********Val Epoch 21: average Loss: 6.600488, train time: 1.16 s
+2024-11-06 10:05: **********test Epoch 21: average Loss: 6.377779, train time: 1.23 s
+2024-11-06 10:05: ********Train Epoch 22: averaged Loss: 6.124423, train time: 9.83 s
+2024-11-06 10:05: ***********Val Epoch 22: average Loss: 6.671725, train time: 1.16 s
+2024-11-06 10:05: **********test Epoch 22: average Loss: 6.438118, train time: 1.22 s
+2024-11-06 10:05: ********Train Epoch 23: averaged Loss: 6.200109, train time: 9.88 s
+2024-11-06 10:05: ***********Val Epoch 23: average Loss: 6.543998, train time: 1.15 s
+2024-11-06 10:05: **********test Epoch 23: average Loss: 6.328487, train time: 1.23 s
+2024-11-06 10:05: *********************************Current best model saved!
+2024-11-06 10:05: ********Train Epoch 24: averaged Loss: 6.005119, train time: 9.95 s
+2024-11-06 10:05: ***********Val Epoch 24: average Loss: 6.443120, train time: 1.16 s
+2024-11-06 10:05: **********test Epoch 24: average Loss: 6.254323, train time: 1.21 s
+2024-11-06 10:05: *********************************Current best model saved!
+2024-11-06 10:06: ********Train Epoch 25: averaged Loss: 6.038974, train time: 9.88 s
+2024-11-06 10:06: ***********Val Epoch 25: average Loss: 6.585202, train time: 1.16 s
+2024-11-06 10:06: **********test Epoch 25: average Loss: 6.363993, train time: 1.24 s
+2024-11-06 10:06: ********Train Epoch 26: averaged Loss: 5.935360, train time: 9.86 s
+2024-11-06 10:06: ***********Val Epoch 26: average Loss: 6.341772, train time: 1.16 s
+2024-11-06 10:06: **********test Epoch 26: average Loss: 6.155930, train time: 1.22 s
+2024-11-06 10:06: *********************************Current best model saved!
+2024-11-06 10:06: ********Train Epoch 27: averaged Loss: 5.875161, train time: 9.92 s
+2024-11-06 10:06: ***********Val Epoch 27: average Loss: 6.502827, train time: 1.16 s
+2024-11-06 10:06: **********test Epoch 27: average Loss: 6.341456, train time: 1.23 s
+2024-11-06 10:06: ********Train Epoch 28: averaged Loss: 6.006915, train time: 9.83 s
+2024-11-06 10:06: ***********Val Epoch 28: average Loss: 6.474206, train time: 1.16 s
+2024-11-06 10:06: **********test Epoch 28: average Loss: 6.280038, train time: 1.22 s
+2024-11-06 10:06: ********Train Epoch 29: averaged Loss: 5.879006, train time: 9.83 s
+2024-11-06 10:06: ***********Val Epoch 29: average Loss: 6.298011, train time: 1.15 s
+2024-11-06 10:06: **********test Epoch 29: average Loss: 6.091625, train time: 1.21 s
+2024-11-06 10:06: *********************************Current best model saved!
+2024-11-06 10:07: ********Train Epoch 30: averaged Loss: 5.815654, train time: 9.82 s
+2024-11-06 10:07: ***********Val Epoch 30: average Loss: 6.278998, train time: 1.16 s
+2024-11-06 10:07: **********test Epoch 30: average Loss: 6.098815, train time: 1.22 s
+2024-11-06 10:07: *********************************Current best model saved!
+2024-11-06 10:07: ********Train Epoch 31: averaged Loss: 5.792458, train time: 9.82 s
+2024-11-06 10:07: ***********Val Epoch 31: average Loss: 6.227293, train time: 1.15 s
+2024-11-06 10:07: **********test Epoch 31: average Loss: 6.040252, train time: 1.22 s
+2024-11-06 10:07: *********************************Current best model saved!
+2024-11-06 10:07: ********Train Epoch 32: averaged Loss: 5.757007, train time: 9.82 s
+2024-11-06 10:07: ***********Val Epoch 32: average Loss: 6.253722, train time: 1.15 s
+2024-11-06 10:07: **********test Epoch 32: average Loss: 6.052837, train time: 1.24 s
+2024-11-06 10:07: ********Train Epoch 33: averaged Loss: 5.732763, train time: 9.84 s
+2024-11-06 10:07: ***********Val Epoch 33: average Loss: 6.224605, train time: 1.15 s
+2024-11-06 10:07: **********test Epoch 33: average Loss: 6.024726, train time: 1.22 s
+2024-11-06 10:07: *********************************Current best model saved!
+2024-11-06 10:07: ********Train Epoch 34: averaged Loss: 5.747144, train time: 9.86 s
+2024-11-06 10:07: ***********Val Epoch 34: average Loss: 6.212230, train time: 1.16 s
+2024-11-06 10:07: **********test Epoch 34: average Loss: 6.049949, train time: 1.22 s
+2024-11-06 10:07: *********************************Current best model saved!
+2024-11-06 10:08: ********Train Epoch 35: averaged Loss: 5.736166, train time: 9.80 s
+2024-11-06 10:08: ***********Val Epoch 35: average Loss: 6.189679, train time: 1.16 s
+2024-11-06 10:08: **********test Epoch 35: average Loss: 6.031830, train time: 1.22 s
+2024-11-06 10:08: *********************************Current best model saved!
+2024-11-06 10:08: ********Train Epoch 36: averaged Loss: 5.726824, train time: 9.83 s
+2024-11-06 10:08: ***********Val Epoch 36: average Loss: 6.203805, train time: 1.15 s
+2024-11-06 10:08: **********test Epoch 36: average Loss: 6.019757, train time: 1.22 s
+2024-11-06 10:08: ********Train Epoch 37: averaged Loss: 5.791314, train time: 9.85 s
+2024-11-06 10:08: ***********Val Epoch 37: average Loss: 6.281248, train time: 1.16 s
+2024-11-06 10:08: **********test Epoch 37: average Loss: 6.105692, train time: 1.22 s
+2024-11-06 10:08: ********Train Epoch 38: averaged Loss: 5.723434, train time: 9.86 s
+2024-11-06 10:08: ***********Val Epoch 38: average Loss: 6.136170, train time: 1.15 s
+2024-11-06 10:08: **********test Epoch 38: average Loss: 5.961048, train time: 1.23 s
+2024-11-06 10:08: *********************************Current best model saved!
+2024-11-06 10:08: ********Train Epoch 39: averaged Loss: 5.666583, train time: 9.82 s
+2024-11-06 10:08: ***********Val Epoch 39: average Loss: 6.176260, train time: 1.16 s
+2024-11-06 10:08: **********test Epoch 39: average Loss: 6.014121, train time: 1.23 s
+2024-11-06 10:09: ********Train Epoch 40: averaged Loss: 5.626547, train time: 9.82 s
+2024-11-06 10:09: ***********Val Epoch 40: average Loss: 6.102553, train time: 1.16 s
+2024-11-06 10:09: **********test Epoch 40: average Loss: 5.949123, train time: 1.23 s
+2024-11-06 10:09: *********************************Current best model saved!
+2024-11-06 10:09: ********Train Epoch 41: averaged Loss: 5.652721, train time: 9.86 s
+2024-11-06 10:09: ***********Val Epoch 41: average Loss: 6.127872, train time: 1.15 s
+2024-11-06 10:09: **********test Epoch 41: average Loss: 5.984929, train time: 1.22 s
+2024-11-06 10:09: ********Train Epoch 42: averaged Loss: 5.672318, train time: 9.83 s
+2024-11-06 10:09: ***********Val Epoch 42: average Loss: 6.131796, train time: 1.15 s
+2024-11-06 10:09: **********test Epoch 42: average Loss: 5.980963, train time: 1.22 s
+2024-11-06 10:09: ********Train Epoch 43: averaged Loss: 5.781238, train time: 9.82 s
+2024-11-06 10:09: ***********Val Epoch 43: average Loss: 6.092045, train time: 1.16 s
+2024-11-06 10:09: **********test Epoch 43: average Loss: 5.939561, train time: 1.21 s
+2024-11-06 10:09: *********************************Current best model saved!
+2024-11-06 10:09: ********Train Epoch 44: averaged Loss: 5.679757, train time: 9.88 s
+2024-11-06 10:09: ***********Val Epoch 44: average Loss: 6.136361, train time: 1.16 s
+2024-11-06 10:09: **********test Epoch 44: average Loss: 5.985953, train time: 1.22 s
+2024-11-06 10:10: ********Train Epoch 45: averaged Loss: 5.626010, train time: 9.83 s
+2024-11-06 10:10: ***********Val Epoch 45: average Loss: 6.072345, train time: 1.16 s
+2024-11-06 10:10: **********test Epoch 45: average Loss: 5.906493, train time: 1.22 s
+2024-11-06 10:10: *********************************Current best model saved!
+2024-11-06 10:10: ********Train Epoch 46: averaged Loss: 5.568917, train time: 9.81 s
+2024-11-06 10:10: ***********Val Epoch 46: average Loss: 6.067436, train time: 1.18 s
+2024-11-06 10:10: **********test Epoch 46: average Loss: 5.884163, train time: 1.23 s
+2024-11-06 10:10: *********************************Current best model saved!
+2024-11-06 10:10: ********Train Epoch 47: averaged Loss: 5.559949, train time: 9.83 s
+2024-11-06 10:10: ***********Val Epoch 47: average Loss: 6.088947, train time: 1.16 s
+2024-11-06 10:10: **********test Epoch 47: average Loss: 5.934201, train time: 1.22 s
+2024-11-06 10:10: ********Train Epoch 48: averaged Loss: 5.570121, train time: 9.82 s
+2024-11-06 10:10: ***********Val Epoch 48: average Loss: 6.144802, train time: 1.15 s
+2024-11-06 10:10: **********test Epoch 48: average Loss: 5.997413, train time: 1.22 s
+2024-11-06 10:10: ********Train Epoch 49: averaged Loss: 5.575556, train time: 9.83 s
+2024-11-06 10:10: ***********Val Epoch 49: average Loss: 6.078823, train time: 1.15 s
+2024-11-06 10:10: **********test Epoch 49: average Loss: 5.938971, train time: 1.22 s
+2024-11-06 10:11: ********Train Epoch 50: averaged Loss: 5.520607, train time: 9.83 s
+2024-11-06 10:11: ***********Val Epoch 50: average Loss: 6.053532, train time: 1.16 s
+2024-11-06 10:11: **********test Epoch 50: average Loss: 5.905584, train time: 1.22 s
+2024-11-06 10:11: *********************************Current best model saved!
+2024-11-06 10:11: ********Train Epoch 51: averaged Loss: 5.582598, train time: 9.84 s
+2024-11-06 10:11: ***********Val Epoch 51: average Loss: 6.270588, train time: 1.15 s
+2024-11-06 10:11: **********test Epoch 51: average Loss: 6.115177, train time: 1.22 s
+2024-11-06 10:11: ********Train Epoch 52: averaged Loss: 5.666766, train time: 9.83 s
+2024-11-06 10:11: ***********Val Epoch 52: average Loss: 6.068692, train time: 1.17 s
+2024-11-06 10:11: **********test Epoch 52: average Loss: 5.914434, train time: 1.25 s
+2024-11-06 10:11: ********Train Epoch 53: averaged Loss: 5.516565, train time: 9.86 s
+2024-11-06 10:11: ***********Val Epoch 53: average Loss: 6.001653, train time: 1.17 s
+2024-11-06 10:11: **********test Epoch 53: average Loss: 5.862078, train time: 1.23 s
+2024-11-06 10:11: *********************************Current best model saved!
+2024-11-06 10:11: ********Train Epoch 54: averaged Loss: 5.465521, train time: 9.85 s
+2024-11-06 10:11: ***********Val Epoch 54: average Loss: 5.985874, train time: 1.17 s
+2024-11-06 10:12: **********test Epoch 54: average Loss: 5.841071, train time: 1.24 s
+2024-11-06 10:12: *********************************Current best model saved!
+2024-11-06 10:12: ********Train Epoch 55: averaged Loss: 5.497240, train time: 9.89 s
+2024-11-06 10:12: ***********Val Epoch 55: average Loss: 5.948426, train time: 1.16 s
+2024-11-06 10:12: **********test Epoch 55: average Loss: 5.831309, train time: 1.23 s
+2024-11-06 10:12: *********************************Current best model saved!
+2024-11-06 10:12: ********Train Epoch 56: averaged Loss: 5.451533, train time: 9.85 s
+2024-11-06 10:12: ***********Val Epoch 56: average Loss: 5.905723, train time: 1.15 s
+2024-11-06 10:12: **********test Epoch 56: average Loss: 5.802644, train time: 1.26 s
+2024-11-06 10:12: *********************************Current best model saved!
+2024-11-06 10:12: ********Train Epoch 57: averaged Loss: 5.430450, train time: 9.80 s
+2024-11-06 10:12: ***********Val Epoch 57: average Loss: 5.977433, train time: 1.16 s
+2024-11-06 10:12: **********test Epoch 57: average Loss: 5.846662, train time: 1.24 s
+2024-11-06 10:12: ********Train Epoch 58: averaged Loss: 5.507456, train time: 9.87 s
+2024-11-06 10:12: ***********Val Epoch 58: average Loss: 5.979612, train time: 1.18 s
+2024-11-06 10:12: **********test Epoch 58: average Loss: 5.871676, train time: 1.22 s
+2024-11-06 10:12: ********Train Epoch 59: averaged Loss: 5.564131, train time: 9.76 s
+2024-11-06 10:13: ***********Val Epoch 59: average Loss: 6.163244, train time: 1.16 s
+2024-11-06 10:13: **********test Epoch 59: average Loss: 6.041367, train time: 1.23 s
+2024-11-06 10:13: ********Train Epoch 60: averaged Loss: 5.542620, train time: 9.82 s
+2024-11-06 10:13: ***********Val Epoch 60: average Loss: 6.022225, train time: 1.17 s
+2024-11-06 10:13: **********test Epoch 60: average Loss: 5.919460, train time: 1.24 s
+2024-11-06 10:13: ********Train Epoch 61: averaged Loss: 5.445403, train time: 9.84 s
+2024-11-06 10:13: ***********Val Epoch 61: average Loss: 5.943930, train time: 1.16 s
+2024-11-06 10:13: **********test Epoch 61: average Loss: 5.826533, train time: 1.25 s
+2024-11-06 10:13: ********Train Epoch 62: averaged Loss: 5.404060, train time: 9.89 s
+2024-11-06 10:13: ***********Val Epoch 62: average Loss: 5.890057, train time: 1.16 s
+2024-11-06 10:13: **********test Epoch 62: average Loss: 5.785607, train time: 1.23 s
+2024-11-06 10:13: *********************************Current best model saved!
+2024-11-06 10:13: ********Train Epoch 63: averaged Loss: 5.379985, train time: 9.79 s
+2024-11-06 10:13: ***********Val Epoch 63: average Loss: 5.869446, train time: 1.16 s
+2024-11-06 10:13: **********test Epoch 63: average Loss: 5.764480, train time: 1.23 s
+2024-11-06 10:13: *********************************Current best model saved!
+2024-11-06 10:14: ********Train Epoch 64: averaged Loss: 5.393693, train time: 9.92 s
+2024-11-06 10:14: ***********Val Epoch 64: average Loss: 5.963840, train time: 1.16 s
+2024-11-06 10:14: **********test Epoch 64: average Loss: 5.864754, train time: 1.23 s
+2024-11-06 10:14: ********Train Epoch 65: averaged Loss: 5.408372, train time: 9.78 s
+2024-11-06 10:14: ***********Val Epoch 65: average Loss: 5.872138, train time: 1.16 s
+2024-11-06 10:14: **********test Epoch 65: average Loss: 5.766174, train time: 1.23 s
+2024-11-06 10:14: ********Train Epoch 66: averaged Loss: 5.347526, train time: 9.72 s
+2024-11-06 10:14: ***********Val Epoch 66: average Loss: 5.872016, train time: 1.16 s
+2024-11-06 10:14: **********test Epoch 66: average Loss: 5.796496, train time: 1.22 s
+2024-11-06 10:14: ********Train Epoch 67: averaged Loss: 5.362077, train time: 9.80 s
+2024-11-06 10:14: ***********Val Epoch 67: average Loss: 5.865954, train time: 1.16 s
+2024-11-06 10:14: **********test Epoch 67: average Loss: 5.778516, train time: 1.23 s
+2024-11-06 10:14: *********************************Current best model saved!
+2024-11-06 10:14: ********Train Epoch 68: averaged Loss: 5.477806, train time: 9.82 s
+2024-11-06 10:14: ***********Val Epoch 68: average Loss: 5.957381, train time: 1.15 s
+2024-11-06 10:14: **********test Epoch 68: average Loss: 5.861607, train time: 1.23 s
+2024-11-06 10:15: ********Train Epoch 69: averaged Loss: 5.432188, train time: 9.79 s
+2024-11-06 10:15: ***********Val Epoch 69: average Loss: 5.892578, train time: 1.16 s
+2024-11-06 10:15: **********test Epoch 69: average Loss: 5.794318, train time: 1.24 s
+2024-11-06 10:15: ********Train Epoch 70: averaged Loss: 5.380414, train time: 9.80 s
+2024-11-06 10:15: ***********Val Epoch 70: average Loss: 5.846973, train time: 1.16 s
+2024-11-06 10:15: **********test Epoch 70: average Loss: 5.779675, train time: 1.23 s
+2024-11-06 10:15: *********************************Current best model saved!
+2024-11-06 10:15: ********Train Epoch 71: averaged Loss: 5.313232, train time: 9.82 s
+2024-11-06 10:15: ***********Val Epoch 71: average Loss: 5.847985, train time: 1.16 s
+2024-11-06 10:15: **********test Epoch 71: average Loss: 5.762143, train time: 1.24 s
+2024-11-06 10:15: ********Train Epoch 72: averaged Loss: 5.317662, train time: 9.84 s
+2024-11-06 10:15: ***********Val Epoch 72: average Loss: 5.838925, train time: 1.14 s
+2024-11-06 10:15: **********test Epoch 72: average Loss: 5.774402, train time: 1.21 s
+2024-11-06 10:15: *********************************Current best model saved!
+2024-11-06 10:15: ********Train Epoch 73: averaged Loss: 5.370424, train time: 9.82 s
+2024-11-06 10:15: ***********Val Epoch 73: average Loss: 5.941396, train time: 1.15 s
+2024-11-06 10:15: **********test Epoch 73: average Loss: 5.861097, train time: 1.21 s
+2024-11-06 10:16: ********Train Epoch 74: averaged Loss: 5.430554, train time: 9.86 s
+2024-11-06 10:16: ***********Val Epoch 74: average Loss: 5.887368, train time: 1.16 s
+2024-11-06 10:16: **********test Epoch 74: average Loss: 5.837032, train time: 1.23 s
+2024-11-06 10:16: ********Train Epoch 75: averaged Loss: 5.300789, train time: 10.03 s
+2024-11-06 10:16: ***********Val Epoch 75: average Loss: 5.825232, train time: 1.16 s
+2024-11-06 10:16: **********test Epoch 75: average Loss: 5.775622, train time: 1.23 s
+2024-11-06 10:16: *********************************Current best model saved!
+2024-11-06 10:16: ********Train Epoch 76: averaged Loss: 5.298774, train time: 9.84 s
+2024-11-06 10:16: ***********Val Epoch 76: average Loss: 5.778320, train time: 1.16 s
+2024-11-06 10:16: **********test Epoch 76: average Loss: 5.716907, train time: 1.21 s
+2024-11-06 10:16: *********************************Current best model saved!
+2024-11-06 10:16: ********Train Epoch 77: averaged Loss: 5.274290, train time: 9.80 s
+2024-11-06 10:16: ***********Val Epoch 77: average Loss: 5.849349, train time: 1.16 s
+2024-11-06 10:16: **********test Epoch 77: average Loss: 5.795752, train time: 1.22 s
+2024-11-06 10:16: ********Train Epoch 78: averaged Loss: 5.267947, train time: 9.85 s
+2024-11-06 10:16: ***********Val Epoch 78: average Loss: 5.775356, train time: 1.15 s
+2024-11-06 10:16: **********test Epoch 78: average Loss: 5.723806, train time: 1.23 s
+2024-11-06 10:16: *********************************Current best model saved!
+2024-11-06 10:17: ********Train Epoch 79: averaged Loss: 5.251417, train time: 9.82 s
+2024-11-06 10:17: ***********Val Epoch 79: average Loss: 5.747607, train time: 1.15 s
+2024-11-06 10:17: **********test Epoch 79: average Loss: 5.702091, train time: 1.26 s
+2024-11-06 10:17: *********************************Current best model saved!
+2024-11-06 10:17: ********Train Epoch 80: averaged Loss: 5.269840, train time: 9.82 s
+2024-11-06 10:17: ***********Val Epoch 80: average Loss: 5.769972, train time: 1.15 s
+2024-11-06 10:17: **********test Epoch 80: average Loss: 5.738026, train time: 1.22 s
+2024-11-06 10:17: ********Train Epoch 81: averaged Loss: 5.241203, train time: 9.84 s
+2024-11-06 10:17: ***********Val Epoch 81: average Loss: 5.799267, train time: 1.16 s
+2024-11-06 10:17: **********test Epoch 81: average Loss: 5.761630, train time: 1.21 s
+2024-11-06 10:17: ********Train Epoch 82: averaged Loss: 5.295834, train time: 9.86 s
+2024-11-06 10:17: ***********Val Epoch 82: average Loss: 5.787613, train time: 1.15 s
+2024-11-06 10:17: **********test Epoch 82: average Loss: 5.748188, train time: 1.22 s
+2024-11-06 10:17: ********Train Epoch 83: averaged Loss: 5.240032, train time: 9.80 s
+2024-11-06 10:17: ***********Val Epoch 83: average Loss: 5.752641, train time: 1.14 s
+2024-11-06 10:17: **********test Epoch 83: average Loss: 5.711425, train time: 1.20 s
+2024-11-06 10:18: ********Train Epoch 84: averaged Loss: 5.215088, train time: 9.93 s
+2024-11-06 10:18: ***********Val Epoch 84: average Loss: 5.768670, train time: 1.15 s
+2024-11-06 10:18: **********test Epoch 84: average Loss: 5.717046, train time: 1.22 s
+2024-11-06 10:18: ********Train Epoch 85: averaged Loss: 5.221016, train time: 9.89 s
+2024-11-06 10:18: ***********Val Epoch 85: average Loss: 5.769988, train time: 1.16 s
+2024-11-06 10:18: **********test Epoch 85: average Loss: 5.741090, train time: 1.22 s
+2024-11-06 10:18: ********Train Epoch 86: averaged Loss: 5.321026, train time: 9.76 s
+2024-11-06 10:18: ***********Val Epoch 86: average Loss: 5.885806, train time: 1.16 s
+2024-11-06 10:18: **********test Epoch 86: average Loss: 5.861417, train time: 1.22 s
+2024-11-06 10:18: ********Train Epoch 87: averaged Loss: 5.320025, train time: 9.81 s
+2024-11-06 10:18: ***********Val Epoch 87: average Loss: 5.852615, train time: 1.16 s
+2024-11-06 10:18: **********test Epoch 87: average Loss: 5.828282, train time: 1.21 s
+2024-11-06 10:18: ********Train Epoch 88: averaged Loss: 5.316725, train time: 9.84 s
+2024-11-06 10:18: ***********Val Epoch 88: average Loss: 5.900598, train time: 1.14 s
+2024-11-06 10:18: **********test Epoch 88: average Loss: 5.857234, train time: 1.21 s
+2024-11-06 10:19: ********Train Epoch 89: averaged Loss: 5.231834, train time: 9.83 s
+2024-11-06 10:19: ***********Val Epoch 89: average Loss: 5.727345, train time: 1.15 s
+2024-11-06 10:19: **********test Epoch 89: average Loss: 5.696422, train time: 1.23 s
+2024-11-06 10:19: *********************************Current best model saved!
+2024-11-06 10:19: ********Train Epoch 90: averaged Loss: 5.212279, train time: 9.89 s
+2024-11-06 10:19: ***********Val Epoch 90: average Loss: 5.716261, train time: 1.15 s
+2024-11-06 10:19: **********test Epoch 90: average Loss: 5.678974, train time: 1.21 s
+2024-11-06 10:19: *********************************Current best model saved!
+2024-11-06 10:19: ********Train Epoch 91: averaged Loss: 5.214115, train time: 9.85 s
+2024-11-06 10:19: ***********Val Epoch 91: average Loss: 5.712900, train time: 1.17 s
+2024-11-06 10:19: **********test Epoch 91: average Loss: 5.685296, train time: 1.25 s
+2024-11-06 10:19: *********************************Current best model saved!
+2024-11-06 10:19: ********Train Epoch 92: averaged Loss: 5.190531, train time: 9.91 s
+2024-11-06 10:19: ***********Val Epoch 92: average Loss: 5.687118, train time: 1.14 s
+2024-11-06 10:19: **********test Epoch 92: average Loss: 5.667375, train time: 1.22 s
+2024-11-06 10:19: *********************************Current best model saved!
+2024-11-06 10:19: ********Train Epoch 93: averaged Loss: 5.188259, train time: 9.83 s
+2024-11-06 10:19: ***********Val Epoch 93: average Loss: 5.708213, train time: 1.15 s
+2024-11-06 10:19: **********test Epoch 93: average Loss: 5.668757, train time: 1.20 s
+2024-11-06 10:20: ********Train Epoch 94: averaged Loss: 5.177362, train time: 9.81 s
+2024-11-06 10:20: ***********Val Epoch 94: average Loss: 5.677943, train time: 1.15 s
+2024-11-06 10:20: **********test Epoch 94: average Loss: 5.659671, train time: 1.24 s
+2024-11-06 10:20: *********************************Current best model saved!
+2024-11-06 10:20: ********Train Epoch 95: averaged Loss: 5.178109, train time: 9.79 s
+2024-11-06 10:20: ***********Val Epoch 95: average Loss: 5.740706, train time: 1.16 s
+2024-11-06 10:20: **********test Epoch 95: average Loss: 5.724563, train time: 1.24 s
+2024-11-06 10:20: ********Train Epoch 96: averaged Loss: 5.159465, train time: 9.95 s
+2024-11-06 10:20: ***********Val Epoch 96: average Loss: 5.688448, train time: 1.14 s
+2024-11-06 10:20: **********test Epoch 96: average Loss: 5.663625, train time: 1.22 s
+2024-11-06 10:20: ********Train Epoch 97: averaged Loss: 5.184521, train time: 9.82 s
+2024-11-06 10:20: ***********Val Epoch 97: average Loss: 5.747876, train time: 1.15 s
+2024-11-06 10:20: **********test Epoch 97: average Loss: 5.734684, train time: 1.22 s
+2024-11-06 10:20: ********Train Epoch 98: averaged Loss: 5.168882, train time: 9.89 s
+2024-11-06 10:20: ***********Val Epoch 98: average Loss: 5.714830, train time: 1.17 s
+2024-11-06 10:20: **********test Epoch 98: average Loss: 5.690597, train time: 1.24 s
+2024-11-06 10:21: ********Train Epoch 99: averaged Loss: 5.137697, train time: 9.88 s
+2024-11-06 10:21: ***********Val Epoch 99: average Loss: 5.689273, train time: 1.16 s
+2024-11-06 10:21: **********test Epoch 99: average Loss: 5.689421, train time: 1.22 s
+2024-11-06 10:21: ********Train Epoch 100: averaged Loss: 5.168987, train time: 9.89 s
+2024-11-06 10:21: ***********Val Epoch 100: average Loss: 5.683749, train time: 1.16 s
+2024-11-06 10:21: **********test Epoch 100: average Loss: 5.683806, train time: 1.20 s
+2024-11-06 10:21: ********Train Epoch 101: averaged Loss: 5.153871, train time: 9.79 s
+2024-11-06 10:21: ***********Val Epoch 101: average Loss: 5.693240, train time: 1.14 s
+2024-11-06 10:21: **********test Epoch 101: average Loss: 5.679381, train time: 1.21 s
+2024-11-06 10:21: ********Train Epoch 102: averaged Loss: 5.155060, train time: 9.80 s
+2024-11-06 10:21: ***********Val Epoch 102: average Loss: 5.694902, train time: 1.15 s
+2024-11-06 10:21: **********test Epoch 102: average Loss: 5.686279, train time: 1.23 s
+2024-11-06 10:21: ********Train Epoch 103: averaged Loss: 5.141132, train time: 9.86 s
+2024-11-06 10:21: ***********Val Epoch 103: average Loss: 5.683259, train time: 1.15 s
+2024-11-06 10:21: **********test Epoch 103: average Loss: 5.670273, train time: 1.21 s
+2024-11-06 10:22: ********Train Epoch 104: averaged Loss: 5.124832, train time: 9.86 s
+2024-11-06 10:22: ***********Val Epoch 104: average Loss: 5.688606, train time: 1.15 s
+2024-11-06 10:22: **********test Epoch 104: average Loss: 5.690595, train time: 1.22 s
+2024-11-06 10:22: ********Train Epoch 105: averaged Loss: 5.123139, train time: 9.84 s
+2024-11-06 10:22: ***********Val Epoch 105: average Loss: 5.650516, train time: 1.16 s
+2024-11-06 10:22: **********test Epoch 105: average Loss: 5.642048, train time: 1.22 s
+2024-11-06 10:22: *********************************Current best model saved!
+2024-11-06 10:22: ********Train Epoch 106: averaged Loss: 5.122866, train time: 9.82 s
+2024-11-06 10:22: ***********Val Epoch 106: average Loss: 5.698079, train time: 1.15 s
+2024-11-06 10:22: **********test Epoch 106: average Loss: 5.704066, train time: 1.22 s
+2024-11-06 10:22: ********Train Epoch 107: averaged Loss: 5.154064, train time: 9.77 s
+2024-11-06 10:22: ***********Val Epoch 107: average Loss: 5.694758, train time: 1.16 s
+2024-11-06 10:22: **********test Epoch 107: average Loss: 5.699035, train time: 1.21 s
+2024-11-06 10:22: ********Train Epoch 108: averaged Loss: 5.176913, train time: 9.80 s
+2024-11-06 10:22: ***********Val Epoch 108: average Loss: 5.794583, train time: 1.16 s
+2024-11-06 10:23: **********test Epoch 108: average Loss: 5.781752, train time: 1.22 s
+2024-11-06 10:23: ********Train Epoch 109: averaged Loss: 5.244084, train time: 9.85 s
+2024-11-06 10:23: ***********Val Epoch 109: average Loss: 5.795270, train time: 1.17 s
+2024-11-06 10:23: **********test Epoch 109: average Loss: 5.769022, train time: 1.22 s
+2024-11-06 10:23: ********Train Epoch 110: averaged Loss: 5.190425, train time: 9.89 s
+2024-11-06 10:23: ***********Val Epoch 110: average Loss: 5.632518, train time: 1.15 s
+2024-11-06 10:23: **********test Epoch 110: average Loss: 5.624460, train time: 1.22 s
+2024-11-06 10:23: *********************************Current best model saved!
+2024-11-06 10:23: ********Train Epoch 111: averaged Loss: 5.136893, train time: 9.91 s
+2024-11-06 10:23: ***********Val Epoch 111: average Loss: 5.729074, train time: 1.14 s
+2024-11-06 10:23: **********test Epoch 111: average Loss: 5.737095, train time: 1.22 s
+2024-11-06 10:23: ********Train Epoch 112: averaged Loss: 5.095627, train time: 9.83 s
+2024-11-06 10:23: ***********Val Epoch 112: average Loss: 5.636155, train time: 1.16 s
+2024-11-06 10:23: **********test Epoch 112: average Loss: 5.627419, train time: 1.21 s
+2024-11-06 10:23: ********Train Epoch 113: averaged Loss: 5.080147, train time: 9.85 s
+2024-11-06 10:24: ***********Val Epoch 113: average Loss: 5.646133, train time: 1.15 s
+2024-11-06 10:24: **********test Epoch 113: average Loss: 5.647311, train time: 1.23 s
+2024-11-06 10:24: ********Train Epoch 114: averaged Loss: 5.093512, train time: 9.82 s
+2024-11-06 10:24: ***********Val Epoch 114: average Loss: 5.624923, train time: 1.16 s
+2024-11-06 10:24: **********test Epoch 114: average Loss: 5.641376, train time: 1.23 s
+2024-11-06 10:24: *********************************Current best model saved!
+2024-11-06 10:24: ********Train Epoch 115: averaged Loss: 5.095029, train time: 9.87 s
+2024-11-06 10:24: ***********Val Epoch 115: average Loss: 5.648025, train time: 1.16 s
+2024-11-06 10:24: **********test Epoch 115: average Loss: 5.633572, train time: 1.21 s
+2024-11-06 10:24: ********Train Epoch 116: averaged Loss: 5.119450, train time: 9.85 s
+2024-11-06 10:24: ***********Val Epoch 116: average Loss: 5.697290, train time: 1.15 s
+2024-11-06 10:24: **********test Epoch 116: average Loss: 5.692367, train time: 1.23 s
+2024-11-06 10:24: ********Train Epoch 117: averaged Loss: 5.134529, train time: 9.83 s
+2024-11-06 10:24: ***********Val Epoch 117: average Loss: 5.661408, train time: 1.14 s
+2024-11-06 10:24: **********test Epoch 117: average Loss: 5.652619, train time: 1.19 s
+2024-11-06 10:25: ********Train Epoch 118: averaged Loss: 5.059590, train time: 9.79 s
+2024-11-06 10:25: ***********Val Epoch 118: average Loss: 5.623344, train time: 1.16 s
+2024-11-06 10:25: **********test Epoch 118: average Loss: 5.616469, train time: 1.22 s
+2024-11-06 10:25: *********************************Current best model saved!
+2024-11-06 10:25: ********Train Epoch 119: averaged Loss: 5.035352, train time: 9.82 s
+2024-11-06 10:25: ***********Val Epoch 119: average Loss: 5.622239, train time: 1.14 s
+2024-11-06 10:25: **********test Epoch 119: average Loss: 5.637523, train time: 1.22 s
+2024-11-06 10:25: *********************************Current best model saved!
+2024-11-06 10:25: ********Train Epoch 120: averaged Loss: 5.051815, train time: 9.82 s
+2024-11-06 10:25: ***********Val Epoch 120: average Loss: 5.617325, train time: 1.16 s
+2024-11-06 10:25: **********test Epoch 120: average Loss: 5.612852, train time: 1.23 s
+2024-11-06 10:25: *********************************Current best model saved!
+2024-11-06 10:25: ********Train Epoch 121: averaged Loss: 5.068838, train time: 9.81 s
+2024-11-06 10:25: ***********Val Epoch 121: average Loss: 5.786941, train time: 1.15 s
+2024-11-06 10:25: **********test Epoch 121: average Loss: 5.775887, train time: 1.20 s
+2024-11-06 10:25: ********Train Epoch 122: averaged Loss: 5.148099, train time: 9.84 s
+2024-11-06 10:25: ***********Val Epoch 122: average Loss: 5.664253, train time: 1.14 s
+2024-11-06 10:25: **********test Epoch 122: average Loss: 5.649974, train time: 1.21 s
+2024-11-06 10:26: ********Train Epoch 123: averaged Loss: 5.117802, train time: 9.80 s
+2024-11-06 10:26: ***********Val Epoch 123: average Loss: 5.673826, train time: 1.16 s
+2024-11-06 10:26: **********test Epoch 123: average Loss: 5.682746, train time: 1.21 s
+2024-11-06 10:26: ********Train Epoch 124: averaged Loss: 5.087658, train time: 9.83 s
+2024-11-06 10:26: ***********Val Epoch 124: average Loss: 5.666105, train time: 1.15 s
+2024-11-06 10:26: **********test Epoch 124: average Loss: 5.654506, train time: 1.20 s
+2024-11-06 10:26: ********Train Epoch 125: averaged Loss: 5.037921, train time: 9.80 s
+2024-11-06 10:26: ***********Val Epoch 125: average Loss: 5.685640, train time: 1.14 s
+2024-11-06 10:26: **********test Epoch 125: average Loss: 5.688554, train time: 1.22 s
+2024-11-06 10:26: ********Train Epoch 126: averaged Loss: 5.088395, train time: 9.82 s
+2024-11-06 10:26: ***********Val Epoch 126: average Loss: 5.725523, train time: 1.14 s
+2024-11-06 10:26: **********test Epoch 126: average Loss: 5.732424, train time: 1.21 s
+2024-11-06 10:26: ********Train Epoch 127: averaged Loss: 5.077331, train time: 9.82 s
+2024-11-06 10:26: ***********Val Epoch 127: average Loss: 5.664401, train time: 1.14 s
+2024-11-06 10:26: **********test Epoch 127: average Loss: 5.655964, train time: 1.21 s
+2024-11-06 10:27: ********Train Epoch 128: averaged Loss: 5.023413, train time: 9.84 s
+2024-11-06 10:27: ***********Val Epoch 128: average Loss: 5.608708, train time: 1.14 s
+2024-11-06 10:27: **********test Epoch 128: average Loss: 5.609154, train time: 1.22 s
+2024-11-06 10:27: *********************************Current best model saved!
+2024-11-06 10:27: ********Train Epoch 129: averaged Loss: 5.005519, train time: 9.80 s
+2024-11-06 10:27: ***********Val Epoch 129: average Loss: 5.590430, train time: 1.15 s
+2024-11-06 10:27: **********test Epoch 129: average Loss: 5.612264, train time: 1.21 s
+2024-11-06 10:27: *********************************Current best model saved!
+2024-11-06 10:27: ********Train Epoch 130: averaged Loss: 5.009791, train time: 9.84 s
+2024-11-06 10:27: ***********Val Epoch 130: average Loss: 5.646337, train time: 1.14 s
+2024-11-06 10:27: **********test Epoch 130: average Loss: 5.678140, train time: 1.20 s
+2024-11-06 10:27: ********Train Epoch 131: averaged Loss: 5.005752, train time: 9.85 s
+2024-11-06 10:27: ***********Val Epoch 131: average Loss: 5.584954, train time: 1.14 s
+2024-11-06 10:27: **********test Epoch 131: average Loss: 5.613268, train time: 1.21 s
+2024-11-06 10:27: *********************************Current best model saved!
+2024-11-06 10:27: ********Train Epoch 132: averaged Loss: 5.000826, train time: 9.84 s
+2024-11-06 10:27: ***********Val Epoch 132: average Loss: 5.647560, train time: 1.16 s
+2024-11-06 10:27: **********test Epoch 132: average Loss: 5.667755, train time: 1.22 s
+2024-11-06 10:28: ********Train Epoch 133: averaged Loss: 5.026862, train time: 9.87 s
+2024-11-06 10:28: ***********Val Epoch 133: average Loss: 5.627505, train time: 1.16 s
+2024-11-06 10:28: **********test Epoch 133: average Loss: 5.640388, train time: 1.23 s
+2024-11-06 10:28: ********Train Epoch 134: averaged Loss: 5.009189, train time: 9.79 s
+2024-11-06 10:28: ***********Val Epoch 134: average Loss: 5.612867, train time: 1.15 s
+2024-11-06 10:28: **********test Epoch 134: average Loss: 5.606096, train time: 1.20 s
+2024-11-06 10:28: ********Train Epoch 135: averaged Loss: 5.061488, train time: 9.87 s
+2024-11-06 10:28: ***********Val Epoch 135: average Loss: 5.697400, train time: 1.14 s
+2024-11-06 10:28: **********test Epoch 135: average Loss: 5.707048, train time: 1.22 s
+2024-11-06 10:28: ********Train Epoch 136: averaged Loss: 5.081433, train time: 9.92 s
+2024-11-06 10:28: ***********Val Epoch 136: average Loss: 5.636342, train time: 1.16 s
+2024-11-06 10:28: **********test Epoch 136: average Loss: 5.644042, train time: 1.22 s
+2024-11-06 10:28: ********Train Epoch 137: averaged Loss: 5.034298, train time: 9.84 s
+2024-11-06 10:28: ***********Val Epoch 137: average Loss: 5.569071, train time: 1.15 s
+2024-11-06 10:28: **********test Epoch 137: average Loss: 5.591825, train time: 1.20 s
+2024-11-06 10:28: *********************************Current best model saved!
+2024-11-06 10:29: ********Train Epoch 138: averaged Loss: 4.961205, train time: 9.79 s
+2024-11-06 10:29: ***********Val Epoch 138: average Loss: 5.600201, train time: 1.15 s
+2024-11-06 10:29: **********test Epoch 138: average Loss: 5.621538, train time: 1.22 s
+2024-11-06 10:29: ********Train Epoch 139: averaged Loss: 4.985303, train time: 9.88 s
+2024-11-06 10:29: ***********Val Epoch 139: average Loss: 5.586977, train time: 1.15 s
+2024-11-06 10:29: **********test Epoch 139: average Loss: 5.618701, train time: 1.21 s
+2024-11-06 10:29: ********Train Epoch 140: averaged Loss: 4.981953, train time: 9.81 s
+2024-11-06 10:29: ***********Val Epoch 140: average Loss: 5.587513, train time: 1.16 s
+2024-11-06 10:29: **********test Epoch 140: average Loss: 5.621555, train time: 1.21 s
+2024-11-06 10:29: ********Train Epoch 141: averaged Loss: 4.976993, train time: 9.82 s
+2024-11-06 10:29: ***********Val Epoch 141: average Loss: 5.621143, train time: 1.15 s
+2024-11-06 10:29: **********test Epoch 141: average Loss: 5.618437, train time: 1.21 s
+2024-11-06 10:29: ********Train Epoch 142: averaged Loss: 4.949991, train time: 9.85 s
+2024-11-06 10:29: ***********Val Epoch 142: average Loss: 5.566488, train time: 1.14 s
+2024-11-06 10:29: **********test Epoch 142: average Loss: 5.589366, train time: 1.20 s
+2024-11-06 10:29: *********************************Current best model saved!
+2024-11-06 10:30: ********Train Epoch 143: averaged Loss: 4.964241, train time: 9.85 s
+2024-11-06 10:30: ***********Val Epoch 143: average Loss: 5.611027, train time: 1.15 s
+2024-11-06 10:30: **********test Epoch 143: average Loss: 5.643677, train time: 1.20 s
+2024-11-06 10:30: ********Train Epoch 144: averaged Loss: 4.972130, train time: 9.80 s
+2024-11-06 10:30: ***********Val Epoch 144: average Loss: 5.610367, train time: 1.16 s
+2024-11-06 10:30: **********test Epoch 144: average Loss: 5.609599, train time: 1.21 s
+2024-11-06 10:30: ********Train Epoch 145: averaged Loss: 4.991294, train time: 9.81 s
+2024-11-06 10:30: ***********Val Epoch 145: average Loss: 5.601650, train time: 1.15 s
+2024-11-06 10:30: **********test Epoch 145: average Loss: 5.618100, train time: 1.21 s
+2024-11-06 10:30: ********Train Epoch 146: averaged Loss: 5.015375, train time: 9.83 s
+2024-11-06 10:30: ***********Val Epoch 146: average Loss: 5.660817, train time: 1.16 s
+2024-11-06 10:30: **********test Epoch 146: average Loss: 5.694352, train time: 1.21 s
+2024-11-06 10:30: ********Train Epoch 147: averaged Loss: 5.006811, train time: 9.87 s
+2024-11-06 10:30: ***********Val Epoch 147: average Loss: 5.624265, train time: 1.16 s
+2024-11-06 10:30: **********test Epoch 147: average Loss: 5.648900, train time: 1.22 s
+2024-11-06 10:31: ********Train Epoch 148: averaged Loss: 5.020048, train time: 9.87 s
+2024-11-06 10:31: ***********Val Epoch 148: average Loss: 5.670191, train time: 1.16 s
+2024-11-06 10:31: **********test Epoch 148: average Loss: 5.708186, train time: 1.21 s
+2024-11-06 10:31: ********Train Epoch 149: averaged Loss: 4.991551, train time: 9.87 s
+2024-11-06 10:31: ***********Val Epoch 149: average Loss: 5.561149, train time: 1.15 s
+2024-11-06 10:31: **********test Epoch 149: average Loss: 5.597586, train time: 1.21 s
+2024-11-06 10:31: *********************************Current best model saved!
+2024-11-06 10:31: ********Train Epoch 150: averaged Loss: 4.930518, train time: 9.82 s
+2024-11-06 10:31: ***********Val Epoch 150: average Loss: 5.594241, train time: 1.16 s
+2024-11-06 10:31: **********test Epoch 150: average Loss: 5.629584, train time: 1.22 s
+2024-11-06 10:31: ********Train Epoch 151: averaged Loss: 4.926729, train time: 9.86 s
+2024-11-06 10:31: ***********Val Epoch 151: average Loss: 5.530721, train time: 1.15 s
+2024-11-06 10:31: **********test Epoch 151: average Loss: 5.571267, train time: 1.22 s
+2024-11-06 10:31: *********************************Current best model saved!
+2024-11-06 10:31: ********Train Epoch 152: averaged Loss: 4.896499, train time: 9.84 s
+2024-11-06 10:31: ***********Val Epoch 152: average Loss: 5.573852, train time: 1.15 s
+2024-11-06 10:31: **********test Epoch 152: average Loss: 5.606330, train time: 1.21 s
+2024-11-06 10:32: ********Train Epoch 153: averaged Loss: 4.926139, train time: 9.83 s
+2024-11-06 10:32: ***********Val Epoch 153: average Loss: 5.653131, train time: 1.15 s
+2024-11-06 10:32: **********test Epoch 153: average Loss: 5.677282, train time: 1.21 s
+2024-11-06 10:32: ********Train Epoch 154: averaged Loss: 4.989537, train time: 9.85 s
+2024-11-06 10:32: ***********Val Epoch 154: average Loss: 5.623536, train time: 1.14 s
+2024-11-06 10:32: **********test Epoch 154: average Loss: 5.665392, train time: 1.23 s
+2024-11-06 10:32: ********Train Epoch 155: averaged Loss: 4.975656, train time: 9.80 s
+2024-11-06 10:32: ***********Val Epoch 155: average Loss: 5.647772, train time: 1.16 s
+2024-11-06 10:32: **********test Epoch 155: average Loss: 5.681428, train time: 1.22 s
+2024-11-06 10:32: ********Train Epoch 156: averaged Loss: 4.955394, train time: 9.84 s
+2024-11-06 10:32: ***********Val Epoch 156: average Loss: 5.681732, train time: 1.16 s
+2024-11-06 10:32: **********test Epoch 156: average Loss: 5.711385, train time: 1.23 s
+2024-11-06 10:32: ********Train Epoch 157: averaged Loss: 4.935149, train time: 9.84 s
+2024-11-06 10:32: ***********Val Epoch 157: average Loss: 5.576859, train time: 1.15 s
+2024-11-06 10:32: **********test Epoch 157: average Loss: 5.610310, train time: 1.23 s
+2024-11-06 10:33: ********Train Epoch 158: averaged Loss: 4.908700, train time: 9.86 s
+2024-11-06 10:33: ***********Val Epoch 158: average Loss: 5.536443, train time: 1.15 s
+2024-11-06 10:33: **********test Epoch 158: average Loss: 5.578724, train time: 1.22 s
+2024-11-06 10:33: ********Train Epoch 159: averaged Loss: 4.906456, train time: 9.86 s
+2024-11-06 10:33: ***********Val Epoch 159: average Loss: 5.557158, train time: 1.14 s
+2024-11-06 10:33: **********test Epoch 159: average Loss: 5.582064, train time: 1.21 s
+2024-11-06 10:33: ********Train Epoch 160: averaged Loss: 4.921221, train time: 9.85 s
+2024-11-06 10:33: ***********Val Epoch 160: average Loss: 5.566391, train time: 1.18 s
+2024-11-06 10:33: **********test Epoch 160: average Loss: 5.596290, train time: 1.23 s
+2024-11-06 10:33: ********Train Epoch 161: averaged Loss: 4.910737, train time: 9.83 s
+2024-11-06 10:33: ***********Val Epoch 161: average Loss: 5.579872, train time: 1.14 s
+2024-11-06 10:33: **********test Epoch 161: average Loss: 5.622464, train time: 1.22 s
+2024-11-06 10:33: ********Train Epoch 162: averaged Loss: 4.916240, train time: 9.84 s
+2024-11-06 10:33: ***********Val Epoch 162: average Loss: 5.574559, train time: 1.15 s
+2024-11-06 10:33: **********test Epoch 162: average Loss: 5.578328, train time: 1.23 s
+2024-11-06 10:34: ********Train Epoch 163: averaged Loss: 4.884044, train time: 10.00 s
+2024-11-06 10:34: ***********Val Epoch 163: average Loss: 5.557861, train time: 1.16 s
+2024-11-06 10:34: **********test Epoch 163: average Loss: 5.594898, train time: 1.23 s
+2024-11-06 10:34: ********Train Epoch 164: averaged Loss: 4.867830, train time: 9.91 s
+2024-11-06 10:34: ***********Val Epoch 164: average Loss: 5.526873, train time: 1.18 s
+2024-11-06 10:34: **********test Epoch 164: average Loss: 5.562884, train time: 1.28 s
+2024-11-06 10:34: *********************************Current best model saved!
+2024-11-06 10:34: ********Train Epoch 165: averaged Loss: 4.874323, train time: 9.80 s
+2024-11-06 10:34: ***********Val Epoch 165: average Loss: 5.522301, train time: 1.15 s
+2024-11-06 10:34: **********test Epoch 165: average Loss: 5.558629, train time: 1.23 s
+2024-11-06 10:34: *********************************Current best model saved!
+2024-11-06 10:34: ********Train Epoch 166: averaged Loss: 4.903777, train time: 9.79 s
+2024-11-06 10:34: ***********Val Epoch 166: average Loss: 5.556259, train time: 1.16 s
+2024-11-06 10:34: **********test Epoch 166: average Loss: 5.605827, train time: 1.22 s
+2024-11-06 10:34: ********Train Epoch 167: averaged Loss: 4.887897, train time: 10.01 s
+2024-11-06 10:35: ***********Val Epoch 167: average Loss: 5.527065, train time: 1.19 s
+2024-11-06 10:35: **********test Epoch 167: average Loss: 5.579768, train time: 1.25 s
+2024-11-06 10:35: ********Train Epoch 168: averaged Loss: 4.902702, train time: 10.55 s
+2024-11-06 10:35: ***********Val Epoch 168: average Loss: 5.545104, train time: 1.25 s
+2024-11-06 10:35: **********test Epoch 168: average Loss: 5.575644, train time: 1.31 s
+2024-11-06 10:35: ********Train Epoch 169: averaged Loss: 4.891994, train time: 10.48 s
+2024-11-06 10:35: ***********Val Epoch 169: average Loss: 5.541809, train time: 1.24 s
+2024-11-06 10:35: **********test Epoch 169: average Loss: 5.577951, train time: 1.33 s
+2024-11-06 10:35: ********Train Epoch 170: averaged Loss: 4.942353, train time: 10.60 s
+2024-11-06 10:35: ***********Val Epoch 170: average Loss: 5.558322, train time: 1.25 s
+2024-11-06 10:35: **********test Epoch 170: average Loss: 5.605661, train time: 1.33 s
+2024-11-06 10:35: ********Train Epoch 171: averaged Loss: 4.890693, train time: 10.62 s
+2024-11-06 10:35: ***********Val Epoch 171: average Loss: 5.538946, train time: 1.25 s
+2024-11-06 10:35: **********test Epoch 171: average Loss: 5.575647, train time: 1.33 s
+2024-11-06 10:36: ********Train Epoch 172: averaged Loss: 4.857226, train time: 10.67 s
+2024-11-06 10:36: ***********Val Epoch 172: average Loss: 5.527775, train time: 1.25 s
+2024-11-06 10:36: **********test Epoch 172: average Loss: 5.565440, train time: 1.33 s
+2024-11-06 10:36: ********Train Epoch 173: averaged Loss: 4.851673, train time: 10.58 s
+2024-11-06 10:36: ***********Val Epoch 173: average Loss: 5.509020, train time: 1.17 s
+2024-11-06 10:36: **********test Epoch 173: average Loss: 5.560493, train time: 1.26 s
+2024-11-06 10:36: *********************************Current best model saved!
+2024-11-06 10:36: ********Train Epoch 174: averaged Loss: 4.865838, train time: 9.98 s
+2024-11-06 10:36: ***********Val Epoch 174: average Loss: 5.512814, train time: 1.15 s
+2024-11-06 10:36: **********test Epoch 174: average Loss: 5.566921, train time: 1.30 s
+2024-11-06 10:36: ********Train Epoch 175: averaged Loss: 4.837747, train time: 10.06 s
+2024-11-06 10:36: ***********Val Epoch 175: average Loss: 5.521879, train time: 1.15 s
+2024-11-06 10:36: **********test Epoch 175: average Loss: 5.567770, train time: 1.21 s
+2024-11-06 10:36: ********Train Epoch 176: averaged Loss: 4.865044, train time: 9.77 s
+2024-11-06 10:36: ***********Val Epoch 176: average Loss: 5.564327, train time: 1.11 s
+2024-11-06 10:36: **********test Epoch 176: average Loss: 5.629534, train time: 1.23 s
+2024-11-06 10:37: ********Train Epoch 177: averaged Loss: 4.865542, train time: 9.99 s
+2024-11-06 10:37: ***********Val Epoch 177: average Loss: 5.525883, train time: 1.16 s
+2024-11-06 10:37: **********test Epoch 177: average Loss: 5.550833, train time: 1.22 s
+2024-11-06 10:37: ********Train Epoch 178: averaged Loss: 4.835248, train time: 9.96 s
+2024-11-06 10:37: ***********Val Epoch 178: average Loss: 5.537659, train time: 1.17 s
+2024-11-06 10:37: **********test Epoch 178: average Loss: 5.594583, train time: 1.24 s
+2024-11-06 10:37: ********Train Epoch 179: averaged Loss: 4.821043, train time: 9.82 s
+2024-11-06 10:37: ***********Val Epoch 179: average Loss: 5.565246, train time: 1.17 s
+2024-11-06 10:37: **********test Epoch 179: average Loss: 5.610717, train time: 1.23 s
+2024-11-06 10:37: ********Train Epoch 180: averaged Loss: 4.884218, train time: 9.85 s
+2024-11-06 10:37: ***********Val Epoch 180: average Loss: 5.576551, train time: 1.16 s
+2024-11-06 10:37: **********test Epoch 180: average Loss: 5.598520, train time: 1.24 s
+2024-11-06 10:37: ********Train Epoch 181: averaged Loss: 4.920543, train time: 9.85 s
+2024-11-06 10:37: ***********Val Epoch 181: average Loss: 5.586297, train time: 1.18 s
+2024-11-06 10:37: **********test Epoch 181: average Loss: 5.642585, train time: 1.23 s
+2024-11-06 10:38: ********Train Epoch 182: averaged Loss: 4.915892, train time: 9.81 s
+2024-11-06 10:38: ***********Val Epoch 182: average Loss: 5.606857, train time: 1.16 s
+2024-11-06 10:38: **********test Epoch 182: average Loss: 5.667194, train time: 1.23 s
+2024-11-06 10:38: ********Train Epoch 183: averaged Loss: 4.901801, train time: 9.83 s
+2024-11-06 10:38: ***********Val Epoch 183: average Loss: 5.668117, train time: 1.17 s
+2024-11-06 10:38: **********test Epoch 183: average Loss: 5.699720, train time: 1.23 s
+2024-11-06 10:38: ********Train Epoch 184: averaged Loss: 4.911798, train time: 9.85 s
+2024-11-06 10:38: ***********Val Epoch 184: average Loss: 5.606228, train time: 1.16 s
+2024-11-06 10:38: **********test Epoch 184: average Loss: 5.680555, train time: 1.25 s
+2024-11-06 10:38: ********Train Epoch 185: averaged Loss: 4.865585, train time: 9.86 s
+2024-11-06 10:38: ***********Val Epoch 185: average Loss: 5.537305, train time: 1.16 s
+2024-11-06 10:38: **********test Epoch 185: average Loss: 5.576297, train time: 1.22 s
+2024-11-06 10:38: ********Train Epoch 186: averaged Loss: 4.808268, train time: 9.85 s
+2024-11-06 10:38: ***********Val Epoch 186: average Loss: 5.530818, train time: 1.18 s
+2024-11-06 10:38: **********test Epoch 186: average Loss: 5.573251, train time: 1.24 s
+2024-11-06 10:39: ********Train Epoch 187: averaged Loss: 4.813007, train time: 9.84 s
+2024-11-06 10:39: ***********Val Epoch 187: average Loss: 5.513942, train time: 1.16 s
+2024-11-06 10:39: **********test Epoch 187: average Loss: 5.554714, train time: 1.23 s
+2024-11-06 10:39: ********Train Epoch 188: averaged Loss: 4.835153, train time: 9.80 s
+2024-11-06 10:39: ***********Val Epoch 188: average Loss: 5.598487, train time: 1.18 s
+2024-11-06 10:39: **********test Epoch 188: average Loss: 5.627883, train time: 1.21 s
+2024-11-06 10:39: Validation performance didn't improve for 15 epochs. Training stops.
+2024-11-06 10:39: Saving current best model to /Users/rdm-nico/VSCode_Projects/GA/Traffic_Prediction_Project/DDGCRN/experiments/MO_D/20241106100057/best_model.pth
+2024-11-06 10:39: Saving current best model to /Users/rdm-nico/VSCode_Projects/GA/Traffic_Prediction_Project/DDGCRN/experiments/MO_D/20241106100057/best_test_model.pth
+2024-11-06 10:39: Horizon 01, MAE: 5.2512, RMSE: 16.7591, MAPE: 0.3122
+2024-11-06 10:39: Horizon 02, MAE: 5.5479, RMSE: 19.4837, MAPE: 0.3179
+2024-11-06 10:39: Horizon 03, MAE: 5.7816, RMSE: 20.9853, MAPE: 0.3269
+2024-11-06 10:39: Horizon 04, MAE: 5.9789, RMSE: 22.6703, MAPE: 0.3360
+2024-11-06 10:39: Average Horizon, MAE: 5.6399, RMSE: 20.0923, MAPE: 0.3238
+2024-11-06 10:39: This is best_test_model
+2024-11-06 10:39: Horizon 01, MAE: 5.2429, RMSE: 16.6948, MAPE: 0.3111
+2024-11-06 10:39: Horizon 02, MAE: 5.5412, RMSE: 19.4349, MAPE: 0.3164
+2024-11-06 10:39: Horizon 03, MAE: 5.7390, RMSE: 20.9801, MAPE: 0.3227
+2024-11-06 10:39: Horizon 04, MAE: 5.9869, RMSE: 22.5140, MAPE: 0.3321
+2024-11-06 10:39: Average Horizon, MAE: 5.6275, RMSE: 20.0217, MAPE: 0.3214

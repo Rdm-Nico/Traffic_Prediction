@@ -1,0 +1,10 @@
+.DS_Store
+Traffic_Prediction_Project/preprocessing/graph_creation/raw_data/
+Traffic_Prediction_Project/preprocessing/__pycache__/
+Traffic_Prediction_Project/STWave/data/
+Traffic_Prediction_Project/STWave/log/MO_D/
+Traffic_Prediction_Project/DDGCRN/data/MO_D/
+Traffic_Prediction_Project/DDGCRN/lib/__pycache__/
+Traffic_Prediction_Project/DDGCRN/model/__pycache__/
+Traffic_Prediction_Project/DDGCRN/experiments/MO_D/
+Traffic_Prediction_Project/DDGCRN/pre-trained/

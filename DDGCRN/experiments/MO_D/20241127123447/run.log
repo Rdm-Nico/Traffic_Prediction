@@ -1,0 +1,7 @@
+2024-11-27 12:34: Experiment log path in: /Users/rdm-nico/VSCode_Projects/GA/Traffic_Prediction_Project/DDGCRN/experiments/MO_D/20241127123447
+2024-11-27 12:34: using mps:2 GPU
+2024-11-27 12:34: Horizon 01, MAE: 5.3420, RMSE: 16.3672, MAPE: 0.3135
+2024-11-27 12:34: Horizon 02, MAE: 5.6698, RMSE: 19.1766, MAPE: 0.3218
+2024-11-27 12:34: Horizon 03, MAE: 5.8831, RMSE: 20.8813, MAPE: 0.3299
+2024-11-27 12:34: Horizon 04, MAE: 6.1754, RMSE: 22.4960, MAPE: 0.3400
+2024-11-27 12:34: Average Horizon, MAE: 5.7676, RMSE: 19.8603, MAPE: 0.3263
